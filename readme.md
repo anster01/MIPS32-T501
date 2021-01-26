@@ -1,6 +1,6 @@
 # MIPS32TM CPU (T501)
 
-A group project from 2nd Year Electronic and Information Engineering at Imperial College London.
+A group project from 2nd Year Electronic and Information Engineering at Imperial College London.  
 Contributors: Ani Hazarika, Josiah Mendes, Zion Darko, Kaius Conway-Lai, Timeo Schmidt & Mattei Tanase.
 
 The specification for this project is available [here](specification.md).
