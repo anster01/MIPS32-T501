@@ -1,6 +1,6 @@
-# MIPS32TM CPU (T501)
+# MIPS32 CPU
 
-A group project from the 2nd Year Module: Instruction Architectures and Compilers in Electronic and Information Engineering at Imperial College London.  
+A group project from the 2nd Year Module: Instruction Architectures and Compilers in Electronic and Information Engineering at Imperial College London in the Autumn Term.  
 Contributors: Ani Hazarika, Josiah Mendes, Zion Darko, Kaius Conway-Lai, Timeo Schmidt & Mattei Tanase.
 
 The specification for this project is available [here](specification.md).
